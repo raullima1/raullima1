@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**raullima1/raullima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### My name is Raul Lima 👦
 - 📍 From SP living in São Paulo
