@@ -3,7 +3,7 @@
 
 ### My name is Raul Lima 👦
 - 📍 From SP living in São Paulo
-- 🚀 I'm a Front-End Developer at [Binario Cloud](https://binario.cloud/) since 2020
+- 🚀 I'm a Front-End Developer at Accenture
 - 👨‍🎓 I have a gradutation in Analysis and Systems Development 
 
 ##### I love everything about technology, ux and web development
