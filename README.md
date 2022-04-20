@@ -3,7 +3,7 @@
 
 ### My name is Raul Lima 👦
 - 📍 From SP living in São Paulo
-- 🚀 I'm a Front-End Developer at Accenture
+- 🚀 I'm a Front-End Developer
 - 👨‍🎓 I have a gradutation in Analysis and Systems Development 
 
 ##### I love everything about technology, ux and web development
